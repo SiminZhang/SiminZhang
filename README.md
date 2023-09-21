@@ -1,8 +1,8 @@
 ### About me:
 Hi 👋, My name is Simin Zhang. Welcome to My GitHub!
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working as a open source contributor at Appwrite
-- 👯 I’m looking for a new grad SDE job
+- 👩‍💻 SDE
+- 🤿  🎮  🎨  ⛰️
 - 📫 Reach me: siminznetwork@gmail.com
 
 
